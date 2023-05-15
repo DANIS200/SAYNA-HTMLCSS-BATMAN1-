@@ -44,8 +44,7 @@ nav{
     border: 2px solid #c4c4c4;
     border-top: none;
 }
-nav ul li a{
-    text-decoration: none;
+nav ul  a{
     color: #fff;
     font-family: rajdhani;
     font-weight: 700;
@@ -530,3 +529,10 @@ footer .social-item{
     }
     }
 
+    .container-video-bande-anonce{
+        background: #fff;
+    }
+    .container-video-bande-anonce .films{
+        width: 800px ;
+        margin: 30px 250px;
+    }
